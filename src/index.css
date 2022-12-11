@@ -1,0 +1,14 @@
+html {
+    background-color: cadetblue;
+}
+
+.container-fluid {
+    background-color: cadetblue;
+}
+
+input[type="text"], input[type="text"]:focus {
+    background-color: transparent;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+}
